@@ -1,7 +1,7 @@
-# Governo Aberto
-## Grupo 1 da Turma de 2021.1
+# Governo Aberto de 2021.1
 
-## Integrantes
+
+## Integrantes do Grupo 1
 
 - Adiginton Jackson King Ferreira - 10258705
 - Levi de Oliveira Fernandes - 10724250
