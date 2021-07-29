@@ -16,3 +16,5 @@
 Uma das propostas é fazer um protótipo iterativo de um aplicativo chamado MobiFix, o qual está presente Figma.
 Para acessar [Clique Aqui](https://www.figma.com/proto/UwZekC4I60WNIHvSmtRwlq/MobiFix?node-id=24%3A2&scaling=scale-down&page-id=0%3A1 "MobiFix")
 
+Link para o relatório final:
+https://www.overleaf.com/read/hfpnvggrkbvm
